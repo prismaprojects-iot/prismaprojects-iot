@@ -7,7 +7,9 @@
 ⚡ Engineering Technology
 
 🔧 Hardware • Firmware • Software • IoT
+
 🌐 Backend • Frontend • APIs • Data
+
 🧩 From concept to integrated solutions
 
 🚀 PRISMA | Ideas. Technology. Solutions.
